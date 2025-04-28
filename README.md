@@ -22,7 +22,7 @@ Assets: Images and SVG icons for visual elements.
 
 Installation
 
-Clone the repository:git clone https://github.com/username/creatic-agency-portfolio.git
+Clone the repository:git clone https://github.com/username/creatic-agency-portfolio.git 
 
 
 Navigate to the project directory:cd creatic-agency-portfolio
